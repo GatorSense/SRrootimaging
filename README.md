@@ -1,6 +1,6 @@
 # SRrootimaging
 Code of the paper "Super Resolution for Root Imaging"
-Please contact Jose for details on the implementation at jruizmunoz@ufl.edu
+Please contact Jose for details on the implementation at jfruizmu@gmail.com
 
 See
 https://arxiv.org/pdf/2003.13537.pdf
